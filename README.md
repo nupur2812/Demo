@@ -12,5 +12,6 @@ modified - files changes
 unmodified - no changes
 staged - file ready to commit
 add- add new or chnage file
-clear
+after that commit - git commit(git commit -m"meesaage")
+push - to send it on github
 
